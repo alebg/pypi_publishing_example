@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pypi-eg-alebg"
-version = "0.1.0"
+version = "0.1.1"
 description = "Example project to test publishing to PyPI"
 authors = ["Luis Alejandro Bordo García <bgluiszz@gmail.com>"]
 readme = "README.md"
